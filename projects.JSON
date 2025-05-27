@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Penetration Testing Report",
+    "description": "Conducted a penetration test on the target machine \"acme\" (IP: 192.168.1.100), uncovering critical vulnerabilities in services like FTP, SSH, SMTP, HTTP, and POP3. Exploits included anonymous logins, brute-force attacks, and user enumeration. The report detailed these findings along with recommended remediations to strengthen system security.",
+    "skills": ["Metasploit", "Nmap", "SSH", "Telnet"],
+    "source": "https://github.com/Dinesh1599/Penetration-Testing-Report"
+  },
+  {
+    "title": "Dynamic Caesar Cipher",
+    "description": "Implemented a three-layer decryption system leveraging geo-location, timestamp, and IP address for dynamic key generation. Enhanced security and resistance to brute-force attacks with unique, adaptive decryption logic, delivered through a Python-based application with a user-friendly Qt interface.",
+    "skills": ["Python", "PyQt5", "Dynamic Key Generation"],
+    "source": "https://github.com/Dinesh1599/CaesarCipher-finalYr"
+  },
+  {
+    "title": "Phishing Probability Tester",
+    "description": "Designed and developed a proof-of-concept phishing detection tool that analyzes email input to identify potential phishing attempts. The tool detects suspicious patterns, unsafe links, and common phishing traits, providing recommendations on whether the email is likely to be a phish or safe.",
+    "skills": ["JavaScript", "ReactJS", "NodeJS", "dicti"],
+    "source": "https://github.com/Dinesh1599/PhishingDetector"
+  },
+  {
+    "title": "Secure Vault",
+    "description": "Developed a terminal-based encrypted data vault using Python, enabling secure storage of sensitive information like passwords and notes. The app uses AES-256 encryption, PBKDF2 key derivation, bcrypt-based authentication, and auto-locks after inactivity to ensure high-grade local data protection.",
+    "skills": ["Python", "Cryptography", "SQLite", "bcrypt", "PBKDF2"],
+    "source": "https://github.com/Dinesh1599/Terminal-based-Secure-Vault"
+  },
+  {
+    "title": "Document Verification dApp",
+    "description": "Built a React-based decentralized application that allows users to register and verify document authenticity on the Ethereum blockchain. Integrated MetaMask for wallet interaction, SHA-256 hashing for document fingerprinting, and a QR code system for instant verification. Deployed the smart contract via Remix using the Sepolia testnet.",
+    "skills": ["React", "Solidity", "Web3.js", "MetaMask", "SHA-256", "Ethereum"],
+    "source": "https://github.com/Dinesh1599/Block-Chain-Data-Verification"
+  },
+  {
+    "title": "Web Application Vulnerability Scanner",
+    "description": "Developed a full-stack vulnerability scanner using React for the frontend and Node.js for the backend. The app performs DNS resolution, port scanning with Nmap, and SQL injection detection using SQLMap. The application is fully containerized using Docker and supports result visualization via a dynamic web interface. Scans are triggered via a URL input, and results are fetched and displayed from the backend.",
+    "skills": ["React", "Node.js", "Express", "Docker", "Nmap", "SQLMap", "nslookup"],
+    "source": "https://github.com/Dinesh1599/WebApp-Vulnerability-Scanner"
+  }
+]
