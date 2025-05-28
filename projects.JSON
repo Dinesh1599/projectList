@@ -40,5 +40,13 @@
     "skills": ["React", "Node.js", "Express", "Docker", "Nmap", "SQLMap", "nslookup"],
     "source": "https://github.com/Dinesh1599/WebApp-Vulnerability-Scanner",
     "category": "Cybersecurity"
-  }
+  },
+  {
+  "title": "API Security Vulnerability Scanner",
+  "description": "Built a command-line based API vulnerability scanner that supports tools like OWASP ZAP and SQLMap to assess API endpoints for security flaws. The tool accepts user-defined URLs and scan methods, and generates detailed vulnerability reports in HTML format. JWT token verification and custom payload injection are also supported for authentication-based testing.",
+  "skills": ["Python", "OWASP ZAP", "SQLMap", "JWT", "API Security", "CLI"],
+  "source": "https://github.com/Dinesh1599/API-testing-toolkit", 
+  "category": "Cybersecurity"
+}
+
 ]
